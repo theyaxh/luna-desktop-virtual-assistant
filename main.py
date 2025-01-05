@@ -1,3 +1,5 @@
+from luna import LunaAssistant
+
 def main():
     luna = LunaAssistant()
     luna.wish_me()
