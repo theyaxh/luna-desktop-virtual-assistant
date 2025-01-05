@@ -113,7 +113,7 @@ class LunaAssistant:
             self.speak("Searching Wikipedia...")
             query = query.replace("wikipedia", "")
             try:
-                results = wikipedia.summary(query, sentences=2)
+                results = wikipedia.summary(query, sentences=1)
                 self.speak("According to Wikipedia")
                 self.speak(results)
             except:
