@@ -1,0 +1,12 @@
+os
+subprocess
+webbrowser
+random
+wikipedia
+datetime
+pyttsx3
+speech_recognition
+sys
+psutil
+pycaw
+pyautogui
