@@ -6,7 +6,7 @@ A friendly Python voice assistant that can help with:
 - Taking screenshots
 - Giving system info
 - Increasing, Decreasing, and mute/unmute the system volume
-To learn more about the features and command check 'commands.md' file
+- To learn more about the features and command check 'commands.md' file
 
 ## How to Install
 1. Clone this repository
