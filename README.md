@@ -1,15 +1,15 @@
 # Luna Voice Assistant
 
 A friendly Python voice assistant that can help with:
-- Web searches
-- Weather updates
-- Telling jokes
+- Opening a set of applications, common folders, and some websites
+- Telling some jokes, facts, and quotes
 - Taking screenshots
-- Setting reminders
+- Giving system info
+- Increasing, Decreasing, and mute/unmute the system volume
 
 ## How to Install
 1. Clone this repository
 2. Run: pip install -r requirements.txt
 
 ## How to Use
-Run luna.py and start talking!
+Run main.py and start talking!
